@@ -1,0 +1,60 @@
+{
+    "North America": {
+        "United States (US)": [
+            {
+                "name": "AMC | IFC Film Picks",
+                "continent": "North America",
+                "country": "United States (US)",
+                "url": "https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8"
+            },
+            {
+                "name": "AMC IFC Film Picks",
+                "continent": "North America",
+                "country": "United States (US)",
+                "url": "https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8"
+            },
+            {
+                "name": "Am\u00e9 47",
+                "continent": "North America",
+                "country": "United States (US)",
+                "url": "https://ss6.domint.net:3028/ame_str/amecanal47/playlist.m3u8"
+            }
+        ]
+    },
+    "Asia": {
+        "Kazakhstan (KZ)": [
+            {
+                "name": "Amedia Hit",
+                "continent": "Asia",
+                "country": "Kazakhstan (KZ)",
+                "url": "http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8"
+            }
+        ],
+        "China (CN)": [
+            {
+                "name": "CCTV-1\u7efc\u5408",
+                "continent": "Asia",
+                "country": "China (CN)",
+                "url": "http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1"
+            },
+            {
+                "name": "CCTV\u4e2d\u56fd\u4e2d\u592e\u7535\u89c6\u53f0-1 \u7efc\u5408",
+                "continent": "Asia",
+                "country": "China (CN)",
+                "url": "http://117.169.120.140:8080/live/cctv-1/.m3u8"
+            },
+            {
+                "name": "CCTV\u4e2d\u56fd\u4e2d\u592e\u7535\u89c6\u53f0-1 \u7efc\u5408",
+                "continent": "Asia",
+                "country": "China (CN)",
+                "url": "http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8"
+            },
+            {
+                "name": "CCTV\u4e2d\u56fd\u4e2d\u592e\u7535\u89c6\u53f0-1 \u7efc\u5408",
+                "continent": "Asia",
+                "country": "China (CN)",
+                "url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
+            }
+        ]
+    }
+}
