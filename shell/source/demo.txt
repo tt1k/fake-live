@@ -7,7 +7,21 @@ AMC | Slightly Off by IFC,https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/mani
 AMC Slightly off,https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
 Amé 47,https://ss6.domint.net:3028/ame_str/amecanal47/playlist.m3u8
 Amedia Hit,http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8
-CCTV-1综合,http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1
-CCTV中国中央电视台-1 综合,http://117.169.120.140:8080/live/cctv-1/.m3u8
-CCTV中国中央电视台-1 综合,http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8
 CCTV中国中央电视台-1 综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+安徽公共,http://zbbf2.ahtv.cn/live/752.m3u8
+澳门有线 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
+澳门资讯,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
+北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
+韩国lKTV 韩国电视,http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
+韩国MBC频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+韩国韩国中央,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+湖北卫视HD,http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+金鹰卡通,http://125.210.152.18:9090/live/JYKT.m3u8
+CCTV中国中央电视台-1 综合,http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8
+CCTV4(国际),http://125.210.152.18:9090/live/CCTV4.m3u8
+CCTV-12,http://183.207.249.7/PLTV/3/224/3221225556/index.m3u8
+CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+América,http://45.6.4.50:50601/America_Tucuman/video.m3u8
+ANT1 (1080p),https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
+ANT1 BUP,http://78.83.87.222:9999/play/a012/index.m3u8
+ANT1 HD,https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8
