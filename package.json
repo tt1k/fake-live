@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "videojs-contrib-hls": "^5.15.0",
     "vue": "^2.6.11",
     "vue-video-player": "^5.0.2",
     "vuetify": "^2.4.0"
