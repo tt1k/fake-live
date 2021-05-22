@@ -15,7 +15,7 @@ def find_ip(url: str, times: int = 1):
     netloc = urlparse(url).netloc
 
     ip_ll = netloc.split(":")
-    if len(ip_ll) == 2:
+    if len(ip_ll) == 2 or len(ip_ll) == 1:
         ip = ip_ll[0]
         if re.match(r"^(?:[0-9]{1,3}\.){3}[0-9]{1,3}$", ip):
             return ip
