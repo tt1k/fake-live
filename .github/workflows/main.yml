@@ -24,4 +24,5 @@ jobs:
           pip install pandas requests urllib3
       - name: Update list
         run: |
+          cd shell
           python main.py
