@@ -33,18 +33,11 @@
 
       <v-btn href="https://github.com/IcedOtaku/fake-live" target="_blank" text>
         <span class="mr-2">Github</span>
-        <v-img
-          alt="Vuetify Logo"
-          class="shrink mr-2"
-          contain
-          :src="require('./assets/logo.png')"
-          transition="scale-transition"
-          width="50"
-        />
+        <v-icon>mdi-github</v-icon>
       </v-btn>
     </v-app-bar>
 
-    <v-main>
+    <v-main class="ma-6">
       <FakeLive/>
     </v-main>
   </v-app>
