@@ -18,6 +18,7 @@
           <video-player
             ref="videoPlayer"
             class="vjs-custom-skin"
+            crossOrigin="Anonymous"
             :options="playerOptions"
             @play="onPlayerPlay($event)"
             @pause="onPlayerPause($event)"
@@ -114,13 +115,13 @@
               children: [
                 {
                   id: 9,
-                  name: "CCTV-1\u7efc\u5408",
-                  url: "http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1"
+                  name: "CCTV1-综合",
+                  url: "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
                 },
                 {
                   id: 10,
-                  name: "CCTV4",
-                  url: "http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w564190259.m3u8"
+                  name: "CCTV4-国际",
+                  url: "http://ivi.bupt.edu.cn/hls/cctv4.m3u8"
                 }
               ]
             }
