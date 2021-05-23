@@ -1,5 +1,23 @@
+<div align=center>
+<img src="./src/assets/fakelive-bg-blue.png" width="600" height="300"/>
+</div>
 # fake-live
 
-Online live stream video all over the world
+Live stream tv videos all over the world.
 
-Live stream urls from [simplepy](https://github.com/cnzbpy/simplepy/blob/master/CPlayer/CPlayerlist.txt)
+Online demo at [tv.fakecoder.info](http://tv.fakecoder.info).
+
+TV source urls from [simplepy](https://github.com/cnzbpy/simplepy/blob/master/CPlayer/CPlayerlist.txt).
+
+Tech: vue + vuetify + vue-video-player.
+
+
+## TODO
+
+- [ ] vue-video-player acceleration
+- [ ] live source improvement
+- [ ] UE improvement
+
+## Screenshot
+
+<img src="./screenshots/1.png" />
