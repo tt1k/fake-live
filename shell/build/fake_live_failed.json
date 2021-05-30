@@ -1,3 +1,108 @@
 {
-    "failed": []
+    "failed": [
+        {
+            "name": "Alanya Posta TV",
+            "url": "http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8"
+        },
+        {
+            "name": "Al Aoula (360p)",
+            "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8"
+        },
+        {
+            "name": "Al Aoula Laayoune (360p)",
+            "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8"
+        },
+        {
+            "name": "Alaraby TV (1080p)",
+            "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8"
+        },
+        {
+            "name": "Alaraby TV",
+            "url": "http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8"
+        },
+        {
+            "name": "Albania : ALBUK TV HD",
+            "url": "http://albuk.dyndns.tv:1935/albuk/albuk.stream/chunklist.m3u8"
+        },
+        {
+            "name": "ALBANIA : RTK 3 HD",
+            "url": "http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/chunklist.m3u8"
+        },
+        {
+            "name": "ALBANIA : RTK 4",
+            "url": "http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/chunklist.m3u8"
+        },
+        {
+            "name": "AlbUK TV (1080p)",
+            "url": "http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8"
+        },
+        {
+            "name": "Alcarria TV",
+            "url": "http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8"
+        },
+        {
+            "name": "Alcarria TV",
+            "url": "https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8"
+        },
+        {
+            "name": "Al Dafrah TV (1080p)",
+            "url": "https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8"
+        },
+        {
+            "name": "Alegria TV (480p)",
+            "url": "https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8"
+        },
+        {
+            "name": "Alegria TV",
+            "url": "https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8"
+        },
+        {
+            "name": "Aleph News",
+            "url": "https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8"
+        },
+        {
+            "name": "ALERT",
+            "url": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8"
+        },
+        {
+            "name": "Alex Berlin",
+            "url": "https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8"
+        },
+        {
+            "name": "Alfa Omega TV (540p)",
+            "url": "http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262"
+        },
+        {
+            "name": "Alfa Omega TV (540p)",
+            "url": "http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8"
+        },
+        {
+            "name": "Alhadath (Backup)",
+            "url": "http://live.alarabiya.net/alarabiapublish/alhadath/chunks.m3u8"
+        },
+        {
+            "name": "Alhayat TV (720p)",
+            "url": "https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8"
+        },
+        {
+            "name": "Al Horreya TV (1080p)",
+            "url": "http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8"
+        },
+        {
+            "name": "Al Horreya TV",
+            "url": "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8"
+        },
+        {
+            "name": "Al Hurra (486p)",
+            "url": "https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8"
+        },
+        {
+            "name": "CCTV-3HD",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8"
+        },
+        {
+            "name": "CCTV 4",
+            "url": "https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8"
+        }
+    ]
 }
