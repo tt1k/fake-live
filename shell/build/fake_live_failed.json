@@ -1,34 +1,3 @@
 {
-    "failed": [
-        {
-            "name": "AMC Presents",
-            "continent": "",
-            "country": "",
-            "url": "https://amc-amcpresents-1.plex.wurl.com/manifest/playlist.m3u8"
-        },
-        {
-            "name": "AMC Presents",
-            "continent": "",
-            "country": "",
-            "url": "https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8"
-        },
-        {
-            "name": "AMC Rush",
-            "continent": "",
-            "country": "",
-            "url": "https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8"
-        },
-        {
-            "name": "AMC | Slightly Off by IFC",
-            "continent": "",
-            "country": "",
-            "url": "https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8"
-        },
-        {
-            "name": "AMC Slightly off",
-            "continent": "",
-            "country": "",
-            "url": "https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8"
-        }
-    ]
+    "failed": []
 }

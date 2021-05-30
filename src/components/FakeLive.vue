@@ -50,6 +50,8 @@
   window.videojs = videojs
   // hls plugin for videojs6
   require('videojs-contrib-hls/dist/videojs-contrib-hls.js')
+  // json data
+  import channel_source_json from '../../shell/build/fake_live_success.json'
 
   export default {
     name: 'FakeLive',
@@ -71,63 +73,7 @@
         html5: { hls: { withCredentials: false }},
         poster: require('../assets/fakelive-bg.png')
       },
-      channelItemLists: [
-        {
-          id: 1,
-          name: "North America",
-          children: [
-            {
-              id: 2,
-              name: "United States (US)",
-              children: [
-                {
-                  id: 3,
-                  name: "AMC | IFC Film Picks",
-                  url: "https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8"
-                },
-                {
-                  id: 4,
-                  name: "AMC IFC Film Picks",
-                  url: "https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8"
-                },
-              ]
-            },
-          ],
-        },
-        {
-          id: 5,
-          name: "Asia",
-          children: [
-            {
-              id: 6,
-              name: "Kazakhstan (KZ)",
-              children: [
-                {
-                  id: 7,
-                  name: "Amedia Hit",
-                  url: "http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8"
-                },
-              ]
-            },
-            {
-              id: 8,
-              name: "China (CN)",
-              children: [
-                {
-                  id: 9,
-                  name: "CCTV1-综合",
-                  url: "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
-                },
-                {
-                  id: 10,
-                  name: "CCTV4-国际",
-                  url: "http://ivi.bupt.edu.cn/hls/cctv4.m3u8"
-                }
-              ]
-            }
-          ],
-        },
-      ],
+      channelItemLists: channel_source_json
     }),
     computed: {
       player() {

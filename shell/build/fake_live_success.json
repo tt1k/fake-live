@@ -1,60 +1,66 @@
-{
-    "North America": {
-        "United States (US)": [
+[
+    {
+        "id": 1,
+        "name": "Asia",
+        "children": [
             {
-                "name": "AMC | IFC Film Picks",
-                "continent": "North America",
-                "country": "United States (US)",
-                "url": "https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8"
+                "id": 8,
+                "name": "Hong Kong (HK)",
+                "children": [
+                    {
+                        "id": 7,
+                        "name": "\u6fb3\u95e8\u8d44\u8baf",
+                        "url": "http://61.244.22.5/ch5/info_ch5.live/master.m3u8"
+                    }
+                ]
             },
             {
-                "name": "AMC IFC Film Picks",
-                "continent": "North America",
-                "country": "United States (US)",
-                "url": "https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8"
+                "id": 10,
+                "name": "China (CN)",
+                "children": [
+                    {
+                        "id": 9,
+                        "name": "\u5317\u4eac\u536b\u89c6",
+                        "url": "http://ivi.bupt.edu.cn/hls/btv1.m3u8"
+                    }
+                ]
             },
             {
-                "name": "Am\u00e9 47",
-                "continent": "North America",
-                "country": "United States (US)",
-                "url": "https://ss6.domint.net:3028/ame_str/amecanal47/playlist.m3u8"
+                "id": 12,
+                "name": "South Korea (KR)",
+                "children": [
+                    {
+                        "id": 11,
+                        "name": "\u97e9\u56fdlKTV \u97e9\u56fd\u7535\u89c6",
+                        "url": "http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8"
+                    }
+                ]
             }
         ]
     },
-    "Asia": {
-        "Kazakhstan (KZ)": [
-            {
-                "name": "Amedia Hit",
-                "continent": "Asia",
-                "country": "Kazakhstan (KZ)",
-                "url": "http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8"
-            }
-        ],
-        "China (CN)": [
-            {
-                "name": "CCTV-1\u7efc\u5408",
-                "continent": "Asia",
-                "country": "China (CN)",
-                "url": "http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1"
-            },
-            {
-                "name": "CCTV\u4e2d\u56fd\u4e2d\u592e\u7535\u89c6\u53f0-1 \u7efc\u5408",
-                "continent": "Asia",
-                "country": "China (CN)",
-                "url": "http://117.169.120.140:8080/live/cctv-1/.m3u8"
-            },
-            {
-                "name": "CCTV\u4e2d\u56fd\u4e2d\u592e\u7535\u89c6\u53f0-1 \u7efc\u5408",
-                "continent": "Asia",
-                "country": "China (CN)",
-                "url": "http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8"
-            },
-            {
-                "name": "CCTV\u4e2d\u56fd\u4e2d\u592e\u7535\u89c6\u53f0-1 \u7efc\u5408",
-                "continent": "Asia",
-                "country": "China (CN)",
-                "url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
-            }
-        ]
+    {
+        "id": 2,
+        "name": "Europe",
+        "children": []
+    },
+    {
+        "id": 3,
+        "name": "North America",
+        "children": []
+    },
+    {
+        "id": 4,
+        "name": "South America",
+        "children": []
+    },
+    {
+        "id": 5,
+        "name": "Africa",
+        "children": []
+    },
+    {
+        "id": 6,
+        "name": "Oceania",
+        "children": []
     }
-}
+]

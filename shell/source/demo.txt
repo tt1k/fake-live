@@ -1,27 +1,66 @@
-AMC | IFC Film Picks,https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
-AMC IFC Film Picks,https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
-AMC Presents,https://amc-amcpresents-1.plex.wurl.com/manifest/playlist.m3u8
-AMC Presents,https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
-AMC Rush,https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
-AMC | Slightly Off by IFC,https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-AMC Slightly off,https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
-Amé 47,https://ss6.domint.net:3028/ame_str/amecanal47/playlist.m3u8
-Amedia Hit,http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8
-CCTV中国中央电视台-1 综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-安徽公共,http://zbbf2.ahtv.cn/live/752.m3u8
-澳门有线 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
-澳门资讯,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
-北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
-韩国lKTV 韩国电视,http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
-韩国MBC频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-韩国韩国中央,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-湖北卫视HD,http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-金鹰卡通,http://125.210.152.18:9090/live/JYKT.m3u8
+Al Alamiya 2,http://82.212.74.98:8000/live/7815.m3u8
+Alanya Posta TV,http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
+Al Aoula (360p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+Al Aoula Laayoune (360p),http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+Al Aoula Laayoune (360p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+Al Aqsa Channel (480p),http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
+Al Aqsa Channel (480p),https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+Al-Aqsa,https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w1777513811.m3u8?v=1581848814
+Alaraby TV (1080p),https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+Alaraby TV,http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+Albahrain TV,http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8?v=3116400149
+Albania : ALBUK TV HD,http://albuk.dyndns.tv:1935/albuk/albuk.stream/chunklist.m3u8
+ALBANIA : RTK 3 HD,http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/chunklist.m3u8
+ALBANIA : RTK 4,http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/chunklist.m3u8
+Albany | CBS 6 WRGB (720p),https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
+AlbUK TV (1080p),http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+Alcarria TV,http://217.182.77.27/live/alcarriatv-livestream.m3u8
+Alcarria TV,http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
+Alcarria TV,https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+Al Dafrah TV (1080p),https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
+Alegria TV (480p),https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
+Alegria TV,https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
+Aleph News,https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+Alerth Alnabawi,http://82.212.74.2:8000/live/7307.m3u8
+ALERT,https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+Alex Berlin,https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+Alfajer Tv HD 2 (720p),http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+Alfa Omega TV (540p),http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
+Alfa Omega TV (540p),http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
+Alfa Omega TV,https://ch.iptvmate.net/99ab43b8e05b44765cee828fc5deafb8.m3u8
+Alfa Omega TV,https://ch.iptvmate.net/b780946a8de8f0ebeeed1f43b4ca9582.m3u8
+Alghad Almushreq,http://82.212.74.3:8000/live/7512.m3u8
+Alhadath (Backup),http://live.alarabiya.net/alarabiapublish/alhadath/chunks.m3u8
+AL HAYAT (1280×720),http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+Al Hayat TV (360p),http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
+Alhayat TV (720p),https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8
+AL HOKAIR Group TV,http://82.212.74.3:8000/live/7513.m3u8
+Al Horreya TV (1080p),http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
+Al Horreya TV,http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+Al Hurra (486p),https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+CCTV-1蓝光2,http://111.12.102.68:6610/PLTV/77777777/224/3221225654/index.m3u8?
+CCTV-1综合,http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1
+CCTV中国中央电视台-1 综合,http://117.169.120.140:8080/live/cctv-1/.m3u8
 CCTV中国中央电视台-1 综合,http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8
+CCTV中国中央电视台-1 综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+CCTV2HD(财经),http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
+CCTV-2财经,http://183.207.248.71:80/cntv/live1/CCTV-2/cctv-2
+CCTV-2高清,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+CCTV-2蓝光1,http://111.12.102.68:6610/PLTV/77777777/224/3221225676/index.m3u8?
+CCTV-2蓝光2,http://111.12.102.68:6610/PLTV/77777777/224/3221225657/index.m3u8?
+CCTV中国中央电视台-2 财经,http://117.169.120.140:8080/live/cctv-2/.m3u8
+CCTV中国中央电视台-2 财经,http://125.210.152.10:8060/live/CCTV2HD_H265.m3u8
+CCTV中国中央电视台-2 财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+CCTV-3HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
+CCTV3HD(综艺),http://125.210.152.18:9090/live/CCTV3HD_H265.m3u8
+CCTV 3,http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+CCTV-3蓝光1,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
+CCTV-3蓝光2,http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+CCTV-3综艺,http://183.207.248.71:80/cntv/live1/CCTV-3/cctv-3
+CCTV中国中央电视台-3 综艺,http://117.169.120.140:8080/live/cctv-3/.m3u8
+CCTV中国中央电视台-3 综艺,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+CCTV 4,https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
 CCTV4(国际),http://125.210.152.18:9090/live/CCTV4.m3u8
-CCTV-12,http://183.207.249.7/PLTV/3/224/3221225556/index.m3u8
-CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-América,http://45.6.4.50:50601/America_Tucuman/video.m3u8
-ANT1 (1080p),https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
-ANT1 BUP,http://78.83.87.222:9999/play/a012/index.m3u8
-ANT1 HD,https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8
+CCTV-4国际,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+CCTV-4蓝光1,http://111.12.102.68:6610/PLTV/77777777/224/3221225775/index.m3u8?
+CCTV-4蓝光2,http://111.12.102.68:6610/PLTV/77777777/224/3221225761/index.m3u8?
