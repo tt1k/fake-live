@@ -5,7 +5,7 @@
         "children": [
             {
                 "id": 8,
-                "name": "Jordan (JO)",
+                "name": "\ud83c\uddef\ud83c\uddf4\u00a0Jordan (JO)",
                 "children": [
                     {
                         "id": 7,
@@ -16,7 +16,7 @@
             },
             {
                 "id": 23,
-                "name": "Palestine (PS)",
+                "name": "\ud83c\uddf5\ud83c\uddf8\u00a0Palestine (PS)",
                 "children": [
                     {
                         "id": 22,
@@ -27,7 +27,7 @@
             },
             {
                 "id": 29,
-                "name": "China (CN)",
+                "name": "\ud83c\udde8\ud83c\uddf3\u00a0China (CN)",
                 "children": [
                     {
                         "id": 28,
@@ -44,7 +44,7 @@
         "children": [
             {
                 "id": 12,
-                "name": "Germany (DE)",
+                "name": "\ud83c\udde9\ud83c\uddea\u00a0Germany (DE)",
                 "children": [
                     {
                         "id": 11,
@@ -55,7 +55,7 @@
             },
             {
                 "id": 14,
-                "name": "Finland (FI)",
+                "name": "\ud83c\uddeb\ud83c\uddee\u00a0Finland (FI)",
                 "children": [
                     {
                         "id": 13,
@@ -66,7 +66,7 @@
             },
             {
                 "id": 17,
-                "name": "Romania (RO)",
+                "name": "\ud83c\uddf7\ud83c\uddf4\u00a0Romania (RO)",
                 "children": [
                     {
                         "id": 16,
@@ -77,7 +77,7 @@
             },
             {
                 "id": 20,
-                "name": "France (FR)",
+                "name": "\ud83c\uddeb\ud83c\uddf7\u00a0France (FR)",
                 "children": [
                     {
                         "id": 19,
@@ -94,7 +94,7 @@
         "children": [
             {
                 "id": 10,
-                "name": "United States (US)",
+                "name": "\ud83c\uddfa\ud83c\uddf8\u00a0United States (US)",
                 "children": [
                     {
                         "id": 9,
